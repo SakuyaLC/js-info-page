@@ -1,0 +1,65 @@
+﻿body{
+	background: url(https://cdn.hipwallpaper.com/i/83/55/1vdRma.jpg) no-repeat center center fixed;
+    background-size: 100%;
+}
+
+div#menu0{
+	color: white;
+}
+
+div#menu1{
+	display: none;
+}
+
+div#menu2{
+	display: none;
+}
+
+div#menu3{
+	display: none;
+}
+
+div#menu4{
+	display: none;
+}
+
+div#menu5{
+	display: none;
+}
+
+div#menu6 {
+	display: none;
+}
+
+div#menu6_add {
+	position: absolute;
+	display: block;
+	width: 570px;
+	height: 20px;
+	margin-left:  1318px;
+	margin-top: 870px;
+}
+
+input#wallpaperActive{
+	display: block;
+	margin-top: -30px;
+}
+
+input#clock{
+	display: none;
+ }
+
+h4{
+	display: none;
+ }
+
+h3{
+	display: none;
+ }
+
+h2{
+	display: none;
+}
+
+
+
